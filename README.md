@@ -15,10 +15,10 @@ git clone https://github.com/your_username/guess-the-number.git
 ```
 <config>
     <range>
-        <min>1</min>
-        <max>100</max>
+        <min>1</min><!-- 最小值-->
+        <max>100</max><!--最大值-->
     </range>
-    <max_attempts>10</max_attempts>
+    <max_attempts>10</max_attempts><!--猜的次數-->
 </config>
 ```
 你可以根據需要修改這些值。
