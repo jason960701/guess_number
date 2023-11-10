@@ -1,0 +1,7 @@
+<config>
+    <range>
+        <min>1</min>
+        <max>100</max>
+    </range>
+    <max_attempts>10</max_attempts>
+</config>
